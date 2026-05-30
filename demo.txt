@@ -1,0 +1,18 @@
+I'm practicing the git today \n
+i have learned the below commands
+ls --list the files and folders
+mkdir --create folder
+
+***********GIT COMMANDS************
+git clone <url(https/ssh/github cli)> -- To clone the git repo
+git checkout -b <branch name> ---To create child branch
+git checkout <branch name> --- To switch the branch
+change the required files
+git status ---To check changed files
+git add .
+git add <filename>  <filename>  <filename>--move the changed files to staging area
+git commit -m  "update files"  -- move the changed files from staging to local repo
+athunticate to github for the first time
+git push <brach name> --to push the changes from local repo to remote repo
+
+
